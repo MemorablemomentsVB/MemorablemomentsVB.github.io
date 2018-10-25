@@ -571,7 +571,7 @@ select {
 	bottom: auto;
 	width: 20px;
 	height: 20px;
-	line-height: 20px;
+	line-height: 21px;
 	font-size: 18px;
 	text-align: center;
 	pointer-events: none;
