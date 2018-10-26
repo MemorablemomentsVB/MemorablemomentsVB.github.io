@@ -601,7 +601,7 @@ label, legend {
 	font-family: "poppins-bold", sans-serif;
 	font-size: 1.4rem;
 	margin-bottom: .6rem;
-	color: #3b3b3b;
+	color: #ffffff;
 	display: block;
 }
 input[type="checkbox"], input[type="radio"] {
@@ -624,19 +624,19 @@ label > input[type="checkbox"], label > input[type="radio"] {
  * -
  */
 ::-webkit-input-placeholder {
-	color: #a1a1a1;
+	color: #ffffff;
 }
 :-moz-placeholder {
-	color: #a1a1a1;  /* Firefox 18- */
+	color: #ffffff;  /* Firefox 18- */
 }
 ::-moz-placeholder {
-	color: #a1a1a1;  /* Firefox 19+ */
+	color: #ffffff;  /* Firefox 19+ */
 }
 :-ms-input-placeholder {
-	color: #a1a1a1;
+	color: #ffffff;
 }
 .placeholder {
-	color: #a1a1a1 !important;
+	color: #ffffff !important;
 }
 
 /** 
@@ -945,7 +945,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 .skill-bars li {
 	height: .6rem;
-	background: #a1a1a1;
+	background: #ffffff;
 	width: 100%;
 	margin-bottom: 6rem;
 	padding: 0;
